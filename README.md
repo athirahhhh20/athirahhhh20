@@ -1,4 +1,4 @@
-# Hi, I'm Athirah
+# Hi, I'm Nurul Athirah Mohammad
 
 ## Data Science Graduate | Data Analytics | Business Intelligence
 
