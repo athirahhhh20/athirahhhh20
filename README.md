@@ -140,10 +140,16 @@ Repository:
 
 ---
 
+# Resume
+
+[View My Resume](RESUME_NURUL ATHIRAH.pdf)
+
+---
+
 # Contact
 
 LinkedIn:
 https://www.linkedin.com/in/athirahmohammad/
 
 Email:
-[athrhmohd20@gmail.com](mailto:athrhmohd20@gmail.com)
+athrhmohd20@gmail.com
