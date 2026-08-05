@@ -41,7 +41,7 @@ Skills:
 A project demonstrating the Extract, Transform, Load process to collect and prepare web-based data.
 
 🔗 Repository:
-[WebScrapingETL][YOUR_LINK_HERE](https://github.com/athirahhhh20/Web-Scraping-ETL)
+[WebScrapingETL](https://github.com/athirahhhh20/Web-Scraping-ETL)
 
 ---
 
