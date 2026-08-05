@@ -24,7 +24,7 @@ Skills:
 A machine learning-based system developed to classify campus crime cases and provide prediction insights.
 
 🔗 Repository:
-[CrimeSense]([YOUR_LINK_HERE](https://github.com/athirahhhh20/crimesense-campus-crime-classification))
+[CrimeSense: Campus Crime Classification](https://github.com/athirahhhh20/crimesense-campus-crime-classification)
 
 ---
 
