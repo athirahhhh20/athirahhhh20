@@ -90,6 +90,8 @@ Developed operational reporting dashboards during internship to support data vis
 
 Due to confidentiality restrictions, original company data and dashboards cannot be publicly shared.
 
+🔗 Repository:
+[Sales Power BI Dashboard](https://github.com/athirahhhh20/sales-performance-powerbi-dashboard)
 ---
 
 # Technical Skills 🛠️
