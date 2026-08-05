@@ -1,135 +1,149 @@
-# Hi, I'm Athirah 👋
+# Hi, I'm Athirah
 
-## Data Science Student | Data Analytics | Machine Learning
+## Data Science Graduate | Data Analytics | Business Intelligence
 
-Welcome to my GitHub portfolio.
+I am a Data Science graduate passionate about transforming data into meaningful insights through data analytics, machine learning, and business intelligence.
 
-I am a Data Science student interested in machine learning, data analytics, business intelligence, and transforming data into meaningful insights.
-
-This portfolio showcases my academic projects, technical skills, and internship experience.
+This GitHub portfolio showcases my academic projects, technical capabilities, and internship experience in data processing, predictive modelling, ETL workflows, and dashboard development.
 
 ---
 
-# Featured Projects 🚀
+# Featured Projects
 
-## 🔹 CrimeSense: Campus Crime Classification Using Machine Learning
+## CrimeSense: Campus Crime Classification Using Machine Learning
 
 **Category:** Machine Learning Application
 
-Skills:
-- Python
-- Machine Learning
-- Data Visualization
+**Skills:**
 
-A machine learning-based system developed to classify campus crime cases and provide prediction insights.
+* Python
+* Machine Learning
+* Data Visualization
 
-🔗 Repository:
+A machine learning-based application developed to classify campus crime cases and provide predictive insights through data analysis.
+
+Repository:
 [CrimeSense: Campus Crime Classification](https://github.com/athirahhhh20/crimesense-campus-crime-classification)
 
 ---
 
-## 🔹 Web Scraping ETL Project
+## Web Scraping ETL Project
 
 **Category:** Data Engineering
 
-Skills:
-- Python
-- Web Scraping
-- ETL Pipeline
-- Pandas
+**Skills:**
 
-A project demonstrating the Extract, Transform, Load process to collect and prepare web-based data.
+* Python
+* Web Scraping
+* ETL Pipeline
+* Pandas
 
-🔗 Repository:
-[WebScrapingETL](https://github.com/athirahhhh20/Web-Scraping-ETL)
+A data engineering project demonstrating the Extract, Transform, Load (ETL) process by collecting, cleaning, and preparing web-based data for analysis.
 
----
-
-## 🔹 University Admission Dataset Quality Analysis
-
-**Category:** Data Science Fundamentals
-
-Skills:
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-
-A data quality analysis project focusing on identifying and analyzing issues within a university admission dataset.
-
-🔗 Repository:
-[University Admission Data Quality](https://github.com/athirahhhh20/university-admission-data-quality-analysis)
+Repository:
+[Web Scraping ETL](https://github.com/athirahhhh20/Web-Scraping-ETL)
 
 ---
 
-## 🔹 Sales Performance Dashboard Using Power BI
+## University Admission Dataset Quality Analysis
+
+**Category:** Data Science & Data Quality
+
+**Skills:**
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+
+A data quality analysis project focused on identifying, evaluating, and improving data issues within a university admission dataset using exploratory data analysis techniques.
+
+Repository:
+[University Admission Data Quality Analysis](https://github.com/athirahhhh20/university-admission-data-quality-analysis)
+
+---
+
+## Sales Performance Dashboard Using Power BI
 
 **Category:** Business Intelligence
 
-Skills:
-- Power BI
-- Data Visualization
-- Business Analysis
+**Skills:**
 
-An interactive dashboard project analysing sales performance and generating business insights.
+* Power BI
+* Data Visualization
+* Business Analysis
 
-🔗 Repository:
-[Sales Power BI Dashboard](https://github.com/athirahhhh20/sales-performance-powerbi-dashboard)
+An interactive Power BI dashboard developed to analyse sales performance and generate meaningful business insights from sales data.
+
+Repository:
+[Sales Performance Power BI Dashboard](https://github.com/athirahhhh20/sales-performance-powerbi-dashboard)
 
 ---
 
-## 🔹 Internship: Power BI Operational Reporting Dashboard
+## Internship: Power BI Operational Reporting Dashboard
 
 **Category:** Industry Experience
 
-Skills:
-- Power BI
-- Power Query
-- Dashboard Development
+**Skills:**
 
-Developed operational reporting dashboards during internship to support data visualization and reporting activities.
+* Power BI
+* Power Query
+* Dashboard Development
 
-Due to confidentiality restrictions, original company data and dashboards cannot be publicly shared.
+Developed operational reporting dashboards during internship to support data visualization, reporting processes, and business performance monitoring.
 
-🔗 Repository:
-[Industry Experience](https://github.com/athirahhhh20/powerbi-operations-reporting-dashboard)
----
+Due to confidentiality restrictions, original company datasets and dashboard visuals cannot be publicly shared.
 
-# Technical Skills 🛠️
-
-### Programming
-- Python
-- SQL
-
-### Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- Exploratory Data Analysis
-
-### Visualization
-- Power BI
-- Matplotlib
-- Seaborn
-
-### Tools
-- Jupyter Notebook
-- GitHub
-- Microsoft Excel
+Repository:
+[Internship Dashboard Summary](https://github.com/athirahhhh20/powerbi-operations-reporting-dashboard)
 
 ---
 
-# Currently Learning 🌱
+# Technical Skills
 
-- Advanced Data Analytics
-- Machine Learning Applications
-- Business Intelligence Reporting
+## Programming
+
+* Python
+* SQL
+
+## Data Science & Analytics
+
+* Pandas
+* NumPy
+* Scikit-learn
+* Data Preprocessing
+* Exploratory Data Analysis
+* Machine Learning
+
+## Business Intelligence & Visualization
+
+* Power BI
+* DAX
+* Power Query
+* Matplotlib
+* Seaborn
+* Dashboard Development
+
+## Tools
+
+* Jupyter Notebook
+* GitHub
+* Microsoft Excel
+
+---
+
+# Professional Interests
+
+* Data Analytics
+* Business Intelligence
+* Machine Learning Applications
+* Data-Driven Decision Making
 
 ---
 
 # Contact
 
 LinkedIn:
-(https://www.linkedin.com/in/athirahmohammad/)
+https://www.linkedin.com/in/athirahmohammad/
 
 Email:
-(athrhmohd20@gmail.com)
+[athrhmohd20@gmail.com](mailto:athrhmohd20@gmail.com)
