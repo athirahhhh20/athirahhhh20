@@ -54,7 +54,7 @@ Skills:
 - Exploratory Data Analysis
 - Data Visualization
 
-A data quality analysis project focusing on identifying and analysing issues within a university admission dataset.
+A data quality analysis project focusing on identifying and analyzing issues within a university admission dataset.
 
 🔗 Repository:
 [University Admission Data Quality](https://github.com/athirahhhh20/university-admission-data-quality-analysis)
