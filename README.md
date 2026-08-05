@@ -73,7 +73,7 @@ Skills:
 An interactive dashboard project analysing sales performance and generating business insights.
 
 🔗 Repository:
-[Sales Power BI Dashboard](YOUR_LINK_HERE)
+[Sales Power BI Dashboard]([YOUR_LINK_HERE](https://github.com/athirahhhh20/sales-performance-powerbi-dashboard)
 
 ---
 
