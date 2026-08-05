@@ -142,7 +142,7 @@ Repository:
 
 # Resume
 
-[View My Resume](RESUME_NURUL ATHIRAH.pdf)
+[View My Resume](RESUME_NURULATHIRAH.pdf)
 
 ---
 
